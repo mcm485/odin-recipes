@@ -1,0 +1,3 @@
+This project is to demonstrate the HTML / GitHub concepts learned in the Odin Project.
+Created a new GH repo + cloned to local + created readme.md locally and here we are.
+Committing early and often...
